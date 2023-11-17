@@ -1,11 +1,11 @@
 #include "monty.h"
 /**
- * cus_queue - prints the top
+ * f_queue - prints the top
  * @head: stack head
  * @counter: line_number
  * Return: no return
 */
-void cus_queue(stack_t **head, unsigned int counter)
+void f_queue(stack_t **head, unsigned int counter)
 {
 	(void)head;
 	(void)counter;
